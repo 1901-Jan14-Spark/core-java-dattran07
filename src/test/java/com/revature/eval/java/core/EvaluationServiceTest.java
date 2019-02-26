@@ -495,7 +495,7 @@ public class EvaluationServiceTest {
 
 	/*******************************************************************
 	 * Question 14
-	 ******************************************************************/
+//	 ******************************************************************/
 	@Test
 	public void testDecodeExercism() {
 		assertEquals("exercism", EvaluationService.AtbashCipher.decode("vcvix rhn"));
